@@ -19,3 +19,5 @@ gradio
 gfpgan
 av
 safetensors
+ipython
+google-cloud-speech
