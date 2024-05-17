@@ -21,3 +21,5 @@ av
 safetensors
 ipython
 google-cloud-speech
+torchaudio
+ipywebrtc
