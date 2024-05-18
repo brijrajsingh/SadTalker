@@ -24,3 +24,4 @@ google-cloud-speech
 torchaudio
 ipywebrtc
 openai
+google-cloud-texttospeech
