@@ -20,6 +20,7 @@ gfpgan
 av
 safetensors
 ipython
+gcloud
 google-cloud-speech
 torchaudio
 ipywebrtc
